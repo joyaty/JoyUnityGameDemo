@@ -1,0 +1,11 @@
+{
+	"name": "com.joy.gamemain",
+	"displayName": "Joy Game Main",
+	"category": "Joy Game",
+	"description": "This is a joy demo game instance.",
+	"version": "0.1.0",
+	"unity": "2020.3",
+	"dependencies" : {
+		"com.jiangyin.gameframework": "1.0.0"
+	}
+}

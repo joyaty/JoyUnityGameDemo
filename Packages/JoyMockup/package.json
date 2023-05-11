@@ -1,0 +1,12 @@
+{
+	"name":"com.joy.mockup",
+	"version":"1.0.0",
+	"displayName":"Joy Mockup",
+	"description":"This is an demo package, record some trainning demo of learning.",
+	"dependencies":{},
+	"author": {
+		"name":"Joyaty",
+		"email":"",
+		"url":""
+	}
+}

@@ -22,6 +22,12 @@
         "com.jiangyin.gameframework": "1.0.0"
       }
     },
+    "com.joy.mockup": {
+      "version": "file:JoyMockup",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.2",
       "depth": 1,

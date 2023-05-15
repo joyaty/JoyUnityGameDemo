@@ -2,7 +2,8 @@
     "name": "JoyMockup.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:2715c6cce2b6efd4b9b68c0d3104383c"
+        "GUID:2715c6cce2b6efd4b9b68c0d3104383c",
+        "GUID:c579267770062bf448e75eb160330b7f"
     ],
     "includePlatforms": [
         "Editor"

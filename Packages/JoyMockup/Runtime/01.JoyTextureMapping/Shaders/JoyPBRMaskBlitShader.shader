@@ -55,4 +55,6 @@ Shader "Joy/Tool/JoyPBRMaskBlitShader"
             ENDHLSL
         }
     }
+
+    CustomEditor "Joy.Editor.Shader.JoyPBRMaskBlitShaderEditor"
 }

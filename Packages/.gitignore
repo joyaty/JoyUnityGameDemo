@@ -1,2 +1,8 @@
 # Shaderlab的VSCode插件，UnityAssetStore购买，不随项目发布
 /ShaderlabVSCode
+# 从Library/PackageCache中拷贝出来，做源码学习使用，不提交
+/com.unity.render-pipelines.core
+/com.unity.render-pipelines.universal
+
+# 维持初始样子，
+# packages-lock.json

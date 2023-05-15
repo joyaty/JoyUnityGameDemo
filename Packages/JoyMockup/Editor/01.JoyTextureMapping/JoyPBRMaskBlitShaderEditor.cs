@@ -13,9 +13,11 @@ namespace Joy.Editor.Shader
 
         public override void FindProperties(MaterialProperty[] properties)
         {
-            var material = materialEditor?.target as Material;
+            Material material = materialEditor != null ? materialEditor.target as Material : null;
             if (material == null)
+            {
                 return;
+            }
             m_PBRTextureProp = FindProperty("_BaseMap", properties);
             m_MaskTextureProp = FindProperty("_MaskMap", properties);
 

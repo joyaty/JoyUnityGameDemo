@@ -4,5 +4,5 @@
 /com.unity.render-pipelines.core
 /com.unity.render-pipelines.universal
 
-# 维持初始样子，
-# packages-lock.json
+# 维持初始样子
+packages-lock.json

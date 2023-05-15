@@ -1,10 +1,12 @@
 {
-    "name": "com.joy.mockup.editor",
+    "name": "JoyMockup.Editor",
     "rootNamespace": "",
     "references": [
         "GUID:2715c6cce2b6efd4b9b68c0d3104383c"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

@@ -1,10 +1,14 @@
 
 using UnityEngine;
 
-/// <summary>
-/// ÓÎÏ·ÊµÀı
-/// </summary>
-public class GameInstance : MonoBehaviour
-{
-    // TODO 
+namespace Joy.Runtime.Main
+{ 
+    /// <summary>
+    /// æ¸¸æˆå®ä¾‹
+    /// </summary>
+    public class GameInstance : MonoBehaviour
+    {
+        // TODO 
+    }
 }
+

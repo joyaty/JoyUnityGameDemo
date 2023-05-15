@@ -3,14 +3,14 @@ using UnityEngine;
 
 namespace Joy.Tool.Editor
 { 
-    [UnityEditor.CustomEditor(typeof(TextureMappingTool))]
+    [UnityEditor.CustomEditor(typeof(JoyTextureMappingTool))]
     public class TextureMappingToolEditor : UnityEditor.Editor
     {
-        private TextureMappingTool m_Script;
+        private JoyTextureMappingTool m_Script;
 
         private void OnEnable()
         {
-            m_Script = target as TextureMappingTool;
+            m_Script = target as JoyTextureMappingTool;
         }
 
         public override void OnInspectorGUI()

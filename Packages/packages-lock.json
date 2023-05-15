@@ -28,6 +28,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.thirdparty.shaderlabvscode": {
+      "version": "file:ShaderlabVSCode",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.2",
       "depth": 1,
